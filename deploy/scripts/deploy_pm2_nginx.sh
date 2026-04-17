@@ -74,20 +74,34 @@ if [ -n "$pm2startup_cmd" ]; then
 fi
 
 echo "配置 Nginx: 将项目内的 deploy/nginx/conf.d/apps.conf 替换域名后复制到 /etc/nginx/conf.d/apps.conf"
-SRC_NGINX_CONF="$ROOT_DIR/deploy/nginx/conf.d/apps.conf"
+# 优先使用仓库中定制的 nginx 配置（例如 apps.zijian.conf），
+# 若不存在再使用通用的 apps.conf
 DEST_NGINX_CONF="/etc/nginx/conf.d/apps.conf"
-if [ -f "$SRC_NGINX_CONF" ]; then
+SRC_NGINX_CONF=""
+for candidate in \
+  "$ROOT_DIR/deploy/nginx/conf.d/apps.zijian.conf" \
+  "$ROOT_DIR/deploy/nginx/conf.d/apps.conf"; do
+  if [ -f "$candidate" ]; then
+    SRC_NGINX_CONF="$candidate"
+    break
+  fi
+done
+
+if [ -n "$SRC_NGINX_CONF" ]; then
+  echo "找到 nginx 配置： $SRC_NGINX_CONF -> $DEST_NGINX_CONF"
+  # 尝试替换占位符（如果有）并写入临时文件
   sed -e "s/example.com/$ROOT_DOMAIN/g" \
       -e "s/api.example.com/$API_HOST/g" \
       -e "s/mini.example.com/$MINI_HOST/g" "$SRC_NGINX_CONF" > /tmp/apps.conf
   if [ -f "$DEST_NGINX_CONF" ]; then
+    echo "备份现有 nginx 配置到 ${DEST_NGINX_CONF}.bak.$(date +%s)"
     cp "$DEST_NGINX_CONF" "$DEST_NGINX_CONF.bak.$(date +%s)"
   fi
   mv /tmp/apps.conf "$DEST_NGINX_CONF"
   nginx -t
   systemctl reload nginx
 else
-  echo "未找到 $SRC_NGINX_CONF，请手动将 nginx 配置放到 /etc/nginx/conf.d/ 或编辑脚本" >&2
+  echo "未找到仓库中的 nginx 配置（apps.zijian.conf 或 apps.conf），请手动放置配置到 $ROOT_DIR/deploy/nginx/conf.d/ 或 /etc/nginx/conf.d/" >&2
 fi
 
 if [ -n "$CERT_EMAIL" ]; then
