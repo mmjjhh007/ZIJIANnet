@@ -1,0 +1,16 @@
+2026-04-15 15:13:14 [error] 服务器错误: SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (D:\Projects\order-management-system\backend\node_modules\body-parser\lib\types\json.js:72:19)
+    at D:\Projects\order-management-system\backend\node_modules\body-parser\lib\read.js:162:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (D:\Projects\order-management-system\backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\Projects\order-management-system\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Projects\order-management-system\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:508:28)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+2026-04-15 15:42:57 [error] 登录错误: ExternalApiError: 手机号不存在
+    at requestEhealthApi (D:\Projects\order-management-system\backend\utils\ehealthApi.js:60:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async D:\Projects\order-management-system\backend\routes\auth.js:109:21
+2026-04-15 15:42:57 [error] 第三方错误 payload: {"code":"A0803","message":"手机号不存在","error":"A0803","stack":"BadRequestException: A0803\n    at LoginService.loginByPhone (/data/cloud-detection/medical-detect-api/src/module/system/login/service/login.service.ts:148:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at WebLoginController.loginByPhone (/data/cloud-detection/medical-detect-api/src/module/system/login/application/http/web/v1/login.controller.ts:76:20)","traceId":"0d4bc79c-3b45-46d1-9684-a091cd87f8ff"}

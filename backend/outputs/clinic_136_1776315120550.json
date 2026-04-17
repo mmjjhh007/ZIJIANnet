@@ -1,0 +1,24 @@
+{
+  "loginRaw": {
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM2LCJuYW1lIjoi5LiB5paw56eR55qE6K-K5omAIiwidHlwZSI6MywidGVybWluYWwiOjEsIndlYnNpdGUiOjEsImxvZ2luTG9nSWQiOjMxNDMsImlhdCI6MTc3NjMxNTExOCwiZXhwIjoxNzc2NDAxNTE4fQ.6sQfB6DOl3UswywkqZOGNcx1D3Krzhs50eDgAXPAtGA",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM2LCJuYW1lIjoi5LiB5paw56eR55qE6K-K5omAIiwidHlwZSI6MywidGVybWluYWwiOjEsIndlYnNpdGUiOjEsImxvZ2luTG9nSWQiOjMxNDMsImlhdCI6MTc3NjMxNTExOCwiZXhwIjoxMTEwNzUxNTExOH0.nXn1NQeWgzzqFgkZr1aw1u-9nzsUd2KgvxypGCbXHC8",
+    "accessTokenExpiresIn": "86400s",
+    "id": 136,
+    "createdAt": "2025-10-16T06:21:33.102Z",
+    "updatedAt": "2026-04-16T04:50:18.000Z",
+    "deletedAt": null,
+    "type": 3,
+    "status": 1,
+    "password": null,
+    "phone": "17347438749",
+    "account": "17347438749",
+    "name": "丁新科的诊所",
+    "email": null,
+    "avatar": null,
+    "gender": null,
+    "regAt": "2025-10-16T06:21:33.000Z",
+    "loginAt": "2026-04-16T04:50:18.000Z",
+    "feishuUnionId": null,
+    "feishuOpenId": null
+  }
+}

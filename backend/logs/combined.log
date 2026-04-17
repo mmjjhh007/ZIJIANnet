@@ -1,0 +1,701 @@
+2026-04-14 11:41:15 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 11:41:15 [info] 📝 环境: development
+2026-04-14 11:41:15 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 13:44:13 [info] GET /api/orders?page=1&pageSize=15
+2026-04-14 13:44:22 [info] GET /api/orders?page=1&pageSize=15
+2026-04-14 13:44:51 [info] GET /api/orders?page=1&pageSize=15&clinicName=clinic_a
+2026-04-14 13:45:00 [info] GET /api/orders?page=1&pageSize=15&testProject=Cpn-IgM
+2026-04-14 13:45:12 [info] GET /api/orders?page=1&pageSize=15&testProject=Cpn-IgM
+2026-04-14 13:53:45 [info] GET /api/orders?page=1&pageSize=15
+2026-04-14 15:03:42 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 15:03:42 [info] 📝 环境: development
+2026-04-14 15:03:42 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 15:05:05 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 15:05:05 [info] 📝 环境: development
+2026-04-14 15:05:05 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 15:06:14 [info] POST /api/auth/login
+2026-04-14 15:07:30 [info] GET /api/mini/v1/profile
+2026-04-14 15:07:46 [info] GET /api/mini/v1/laboratory-orders/paging?page=1&size=5
+2026-04-14 15:18:06 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 15:18:06 [info] 📝 环境: development
+2026-04-14 15:18:06 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 16:32:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 16:32:29 [info] 📝 环境: development
+2026-04-14 16:32:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 16:33:53 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 16:33:53 [info] 📝 环境: development
+2026-04-14 16:33:53 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 16:36:23 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 16:36:23 [info] 📝 环境: development
+2026-04-14 16:36:23 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 16:37:01 [info] GET /api/orders?page=1&pageSize=15
+2026-04-14 16:37:01 [info] GET /api/captcha?1776155821796
+2026-04-14 16:47:37 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 16:47:37 [info] 📝 环境: development
+2026-04-14 16:47:37 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 16:57:53 [info] GET /api/health
+2026-04-14 17:06:47 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:06:47 [info] 📝 环境: development
+2026-04-14 17:06:47 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:19:13 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:19:13 [info] 📝 环境: development
+2026-04-14 17:19:13 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:22:57 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:22:57 [info] 📝 环境: development
+2026-04-14 17:22:57 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:26:29 [info] POST /api/auth/login
+2026-04-14 17:26:36 [info] POST /api/auth/login
+2026-04-14 17:32:54 [info] POST /api/auth/login
+2026-04-14 17:34:10 [info] POST /api/auth/login
+2026-04-14 17:36:57 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:36:57 [info] 📝 环境: development
+2026-04-14 17:36:57 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:38:20 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:38:20 [info] 📝 环境: development
+2026-04-14 17:38:20 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:38:27 [info] POST /api/auth/login
+2026-04-14 17:39:26 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:39:26 [info] 📝 环境: development
+2026-04-14 17:39:26 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:39:33 [info] POST /api/auth/login
+2026-04-14 17:40:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:40:11 [info] 📝 环境: development
+2026-04-14 17:40:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:40:20 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:40:20 [info] 📝 环境: development
+2026-04-14 17:40:20 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:40:27 [info] POST /api/auth/login
+2026-04-14 17:40:36 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:40:36 [info] 📝 环境: development
+2026-04-14 17:40:36 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:40:40 [info] POST /api/auth/login
+2026-04-14 17:41:51 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:41:51 [info] 📝 环境: development
+2026-04-14 17:41:51 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:41:58 [info] POST /api/auth/login
+2026-04-14 17:42:27 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:42:27 [info] 📝 环境: development
+2026-04-14 17:42:27 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:42:34 [info] POST /api/auth/login
+2026-04-14 17:48:48 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:48:48 [info] 📝 环境: development
+2026-04-14 17:48:48 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:48:53 [info] POST /api/auth/login
+2026-04-14 17:49:39 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:49:39 [info] 📝 环境: development
+2026-04-14 17:49:39 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:50:25 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:50:25 [info] 📝 环境: development
+2026-04-14 17:50:25 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:52:54 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:52:54 [info] 📝 环境: development
+2026-04-14 17:52:54 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:59:46 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:59:46 [info] 📝 环境: development
+2026-04-14 17:59:46 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 17:59:47 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 17:59:47 [info] 📝 环境: development
+2026-04-14 17:59:47 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:00:07 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:00:07 [info] 📝 环境: development
+2026-04-14 18:00:07 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:10:58 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:10:58 [info] 📝 环境: development
+2026-04-14 18:10:58 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:11:16 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:11:16 [info] 📝 环境: development
+2026-04-14 18:11:16 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:11:49 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:11:49 [info] 📝 环境: development
+2026-04-14 18:11:49 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:11:50 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:11:50 [info] 📝 环境: development
+2026-04-14 18:11:50 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:12:07 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:12:07 [info] 📝 环境: development
+2026-04-14 18:12:07 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:12:40 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:12:40 [info] 📝 环境: development
+2026-04-14 18:12:40 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:12:53 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:12:53 [info] 📝 环境: development
+2026-04-14 18:12:53 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:13:34 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:13:34 [info] 📝 环境: development
+2026-04-14 18:13:34 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:13:40 [info] POST /api/auth/login
+2026-04-14 18:13:59 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:13:59 [info] 📝 环境: development
+2026-04-14 18:13:59 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:14:04 [info] POST /api/auth/login
+2026-04-14 18:15:10 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:15:10 [info] 📝 环境: development
+2026-04-14 18:15:10 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:15:31 [info] POST /api/auth/login
+2026-04-14 18:17:32 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:17:32 [info] 📝 环境: development
+2026-04-14 18:17:32 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:17:34 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:17:34 [info] 📝 环境: development
+2026-04-14 18:17:34 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:17:36 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:17:36 [info] 📝 环境: development
+2026-04-14 18:17:36 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:19:08 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:19:08 [info] 📝 环境: development
+2026-04-14 18:19:08 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:19:26 [info] POST /api/auth/login
+2026-04-14 18:19:55 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:19:55 [info] 📝 环境: development
+2026-04-14 18:19:55 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:20:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:20:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:20:11 [info] 📝 环境: development
+2026-04-14 18:20:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:20:11 [info] 📝 环境: development
+2026-04-14 18:20:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:20:46 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:20:46 [info] 📝 环境: development
+2026-04-14 18:20:46 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:20:46 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:20:46 [info] 📝 环境: development
+2026-04-14 18:20:46 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:21:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:21:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:21:29 [info] 📝 环境: development
+2026-04-14 18:21:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:21:29 [info] 📝 环境: development
+2026-04-14 18:21:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:21:35 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:21:35 [info] 📝 环境: development
+2026-04-14 18:21:35 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:22:55 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:22:55 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:22:55 [info] 📝 环境: development
+2026-04-14 18:22:55 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:22:55 [info] 📝 环境: development
+2026-04-14 18:22:55 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:23:23 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:23:23 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:23:23 [info] 📝 环境: development
+2026-04-14 18:23:23 [info] 📝 环境: development
+2026-04-14 18:23:23 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:23:23 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:23:30 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:23:30 [info] 📝 环境: development
+2026-04-14 18:23:30 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:55:58 [info] POST /api/auth/login
+2026-04-14 18:56:09 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:09 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:09 [info] 📝 环境: development
+2026-04-14 18:56:09 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:09 [info] 📝 环境: development
+2026-04-14 18:56:09 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:11 [info] 📝 环境: development
+2026-04-14 18:56:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:11 [info] 📝 环境: development
+2026-04-14 18:56:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:13 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:13 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:13 [info] 📝 环境: development
+2026-04-14 18:56:13 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:13 [info] 📝 环境: development
+2026-04-14 18:56:13 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:14 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:14 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:56:14 [info] 📝 环境: development
+2026-04-14 18:56:14 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:56:14 [info] 📝 环境: development
+2026-04-14 18:56:14 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:57:02 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:57:02 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:57:02 [info] 📝 环境: development
+2026-04-14 18:57:02 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:57:02 [info] 📝 环境: development
+2026-04-14 18:57:02 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:57:07 [info] POST /api/auth/login
+2026-04-14 18:58:31 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:58:31 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:58:31 [info] 📝 环境: development
+2026-04-14 18:58:31 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:58:31 [info] 📝 环境: development
+2026-04-14 18:58:31 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 18:59:45 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 18:59:45 [info] 📝 环境: development
+2026-04-14 18:59:45 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:01 [info] POST /api/auth/login
+2026-04-14 19:00:28 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:28 [info] 📝 环境: development
+2026-04-14 19:00:28 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:28 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:28 [info] 📝 环境: development
+2026-04-14 19:00:28 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:29 [info] 📝 环境: development
+2026-04-14 19:00:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:29 [info] 📝 环境: development
+2026-04-14 19:00:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:41 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:41 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:41 [info] 📝 环境: development
+2026-04-14 19:00:41 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:41 [info] 📝 环境: development
+2026-04-14 19:00:41 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:00:53 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:00:53 [info] 📝 环境: development
+2026-04-14 19:00:53 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:01:03 [info] POST /api/auth/login
+2026-04-14 19:01:44 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:01:44 [info] 📝 环境: development
+2026-04-14 19:01:44 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:01:44 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:01:44 [info] 📝 环境: development
+2026-04-14 19:01:44 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:01:51 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:01:51 [info] 📝 环境: development
+2026-04-14 19:01:51 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:01:59 [info] POST /api/auth/login
+2026-04-14 19:02:22 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:02:22 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-14 19:02:22 [info] 📝 环境: development
+2026-04-14 19:02:22 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-14 19:02:22 [info] 📝 环境: development
+2026-04-14 19:02:22 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 11:22:00 [info] POST /api/auth/login
+2026-04-15 11:22:10 [info] POST /api/auth/login
+2026-04-15 11:32:54 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 11:32:54 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 11:32:54 [info] 📝 环境: development
+2026-04-15 11:32:54 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 11:32:54 [info] 📝 环境: development
+2026-04-15 11:32:54 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 11:33:03 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 11:33:03 [info] 📝 环境: development
+2026-04-15 11:33:03 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 11:33:10 [info] POST /api/auth/login
+2026-04-15 14:49:09 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:49:09 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:49:09 [info] 📝 环境: development
+2026-04-15 14:49:09 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:49:09 [info] 📝 环境: development
+2026-04-15 14:49:09 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:49:50 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:49:50 [info] 📝 环境: development
+2026-04-15 14:49:50 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:49:59 [info] POST /api/auth/login
+2026-04-15 14:50:43 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:50:43 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:50:43 [info] 📝 环境: development
+2026-04-15 14:50:43 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:50:43 [info] 📝 环境: development
+2026-04-15 14:50:43 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:50:56 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:50:56 [info] 📝 环境: development
+2026-04-15 14:50:56 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:51:06 [info] POST /api/auth/login
+2026-04-15 14:51:27 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:51:27 [info] 📝 环境: development
+2026-04-15 14:51:27 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:51:27 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:51:27 [info] 📝 环境: development
+2026-04-15 14:51:27 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:51:36 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:51:36 [info] 📝 环境: development
+2026-04-15 14:51:36 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:52:10 [info] POST /api/auth/login
+2026-04-15 14:52:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:52:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:52:29 [info] 📝 环境: development
+2026-04-15 14:52:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:52:29 [info] 📝 环境: development
+2026-04-15 14:52:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:53:26 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:53:26 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:53:26 [info] 📝 环境: development
+2026-04-15 14:53:26 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:53:26 [info] 📝 环境: development
+2026-04-15 14:53:26 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:53:35 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:53:35 [info] 📝 环境: development
+2026-04-15 14:53:35 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:53:53 [info] POST /api/auth/login
+2026-04-15 14:54:54 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:54:54 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:54:54 [info] 📝 环境: development
+2026-04-15 14:54:54 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:54:54 [info] 📝 环境: development
+2026-04-15 14:54:54 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:55:02 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:55:02 [info] 📝 环境: development
+2026-04-15 14:55:02 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:55:15 [info] POST /api/auth/login
+2026-04-15 14:55:38 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:55:38 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:55:38 [info] 📝 环境: development
+2026-04-15 14:55:38 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:55:38 [info] 📝 环境: development
+2026-04-15 14:55:38 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:55:45 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:55:45 [info] 📝 环境: development
+2026-04-15 14:55:45 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:55:55 [info] POST /api/auth/login
+2026-04-15 14:56:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:56:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:56:11 [info] 📝 环境: development
+2026-04-15 14:56:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:56:11 [info] 📝 环境: development
+2026-04-15 14:56:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:57:12 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:57:12 [info] 📝 环境: development
+2026-04-15 14:57:12 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:57:12 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:57:12 [info] 📝 环境: development
+2026-04-15 14:57:12 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:57:15 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:57:15 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:57:15 [info] 📝 环境: development
+2026-04-15 14:57:15 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:57:15 [info] 📝 环境: development
+2026-04-15 14:57:15 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:57:17 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:57:17 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:57:17 [info] 📝 环境: development
+2026-04-15 14:57:17 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:57:17 [info] 📝 环境: development
+2026-04-15 14:57:17 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:58:35 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:58:35 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:58:35 [info] 📝 环境: development
+2026-04-15 14:58:35 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:58:35 [info] 📝 环境: development
+2026-04-15 14:58:35 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:58:41 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:58:41 [info] 📝 环境: development
+2026-04-15 14:58:41 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:58:51 [info] POST /api/auth/dev-external-login
+2026-04-15 14:59:09 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:59:09 [info] 📝 环境: development
+2026-04-15 14:59:09 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:59:09 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 14:59:09 [info] 📝 环境: development
+2026-04-15 14:59:09 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 14:59:25 [info] POST /api/auth/dev-external-login
+2026-04-15 15:00:03 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:00:03 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:00:03 [info] 📝 环境: development
+2026-04-15 15:00:03 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:00:03 [info] 📝 环境: development
+2026-04-15 15:00:03 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:07:50 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:07:50 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:07:50 [info] 📝 环境: development
+2026-04-15 15:07:50 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:07:50 [info] 📝 环境: development
+2026-04-15 15:07:50 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:08:17 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:08:17 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:08:17 [info] 📝 环境: development
+2026-04-15 15:08:17 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:08:17 [info] 📝 环境: development
+2026-04-15 15:08:17 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:08:39 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:08:39 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:08:39 [info] 📝 环境: development
+2026-04-15 15:08:39 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:08:39 [info] 📝 环境: development
+2026-04-15 15:08:39 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:08:58 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:08:58 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:08:58 [info] 📝 环境: development
+2026-04-15 15:08:58 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:08:58 [info] 📝 环境: development
+2026-04-15 15:08:58 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:09:12 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:09:12 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:09:12 [info] 📝 环境: development
+2026-04-15 15:09:12 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:09:12 [info] 📝 环境: development
+2026-04-15 15:09:12 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:11:17 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:11:17 [info] 📝 环境: development
+2026-04-15 15:11:17 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:11:44 [info] POST /api/auth/login
+2026-04-15 15:12:13 [info] GET /api/health
+2026-04-15 15:12:39 [info] GET /api/health
+2026-04-15 15:12:53 [info] GET /api/health
+2026-04-15 15:13:14 [error] 服务器错误: SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (D:\Projects\order-management-system\backend\node_modules\body-parser\lib\types\json.js:72:19)
+    at D:\Projects\order-management-system\backend\node_modules\body-parser\lib\read.js:162:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (D:\Projects\order-management-system\backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\Projects\order-management-system\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Projects\order-management-system\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:508:28)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+2026-04-15 15:13:28 [info] POST /api/auth/login
+2026-04-15 15:13:47 [info] POST /api/auth/login
+2026-04-15 15:14:49 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:14:49 [info] 📝 环境: development
+2026-04-15 15:14:49 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:32:17 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:32:17 [info] 📝 环境: development
+2026-04-15 15:32:17 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:32:48 [info] GET /api/health
+2026-04-15 15:33:06 [info] GET /api/health
+2026-04-15 15:33:27 [info] POST /api/auth/login
+2026-04-15 15:34:05 [info] POST /api/auth/login
+2026-04-15 15:34:26 [info] POST /api/auth/login
+2026-04-15 15:35:23 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:35:23 [info] 📝 环境: development
+2026-04-15 15:35:23 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:36:06 [info] POST /api/auth/login
+2026-04-15 15:36:21 [info] POST /api/auth/login
+2026-04-15 15:36:28 [info] GET /api/auth/profile
+2026-04-15 15:36:28 [info] GET /api/auth/clinic
+2026-04-15 15:36:30 [info] GET /api/orders?page=1&pageSize=5
+2026-04-15 15:37:31 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-15 15:37:31 [info] 📝 环境: development
+2026-04-15 15:37:31 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-15 15:37:56 [info] POST /api/auth/login
+2026-04-15 15:38:07 [info] GET /api/auth/clinic
+2026-04-15 15:38:08 [info] GET /api/orders?page=1&pageSize=5
+2026-04-15 15:42:37 [info] POST /api/auth/login
+2026-04-15 15:42:41 [info] GET /api/orders?page=1&pageSize=10
+2026-04-15 15:42:55 [info] POST /api/auth/login
+2026-04-15 15:42:57 [error] 登录错误: ExternalApiError: 手机号不存在
+    at requestEhealthApi (D:\Projects\order-management-system\backend\utils\ehealthApi.js:60:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async D:\Projects\order-management-system\backend\routes\auth.js:109:21
+2026-04-15 15:42:57 [error] 第三方错误 payload: {"code":"A0803","message":"手机号不存在","error":"A0803","stack":"BadRequestException: A0803\n    at LoginService.loginByPhone (/data/cloud-detection/medical-detect-api/src/module/system/login/service/login.service.ts:148:15)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at WebLoginController.loginByPhone (/data/cloud-detection/medical-detect-api/src/module/system/login/application/http/web/v1/login.controller.ts:76:20)","traceId":"0d4bc79c-3b45-46d1-9684-a091cd87f8ff"}
+2026-04-15 16:02:53 [info] POST /api/auth/login
+2026-04-15 16:02:59 [info] GET /api/orders?page=1&pageSize=10
+2026-04-15 17:36:30 [info] POST /api/auth/login
+2026-04-15 17:36:33 [info] GET /api/orders?page=1&pageSize=20
+2026-04-15 17:36:33 [info] GET /api/orders?page=1&pageSize=20&startDate=2026-03-16&endDate=2026-04-15
+2026-04-15 17:36:34 [info] GET /api/orders?page=1&pageSize=20&startDate=2026-04-08&endDate=2026-04-15
+2026-04-15 17:36:34 [info] GET /api/orders?page=1&pageSize=20&status=COMPLETED
+2026-04-15 17:36:35 [info] GET /api/orders?page=1&pageSize=20&status=PENDING_TESTING
+2026-04-15 18:20:08 [info] POST /api/auth/login
+2026-04-16 12:19:57 [info] POST /api/auth/login
+2026-04-16 12:20:00 [info] GET /api/auth/profile
+2026-04-16 14:02:32 [info] POST /api/auth/login
+2026-04-16 14:02:45 [info] POST /api/auth/login
+2026-04-16 14:03:35 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 14:03:35 [info] 📝 环境: development
+2026-04-16 14:03:35 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 14:33:43 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 14:33:43 [info] 📝 环境: development
+2026-04-16 14:33:43 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 14:34:18 [info] POST /api/auth/login
+2026-04-16 14:37:33 [info] POST /api/auth/login
+2026-04-16 15:01:58 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 15:01:58 [info] 📝 环境: development
+2026-04-16 15:01:58 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 15:04:12 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 15:04:12 [info] 📝 环境: development
+2026-04-16 15:04:12 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 15:04:33 [info] POST /api/auth/login
+2026-04-16 15:21:23 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 15:21:23 [info] 📝 环境: development
+2026-04-16 15:21:23 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 15:22:20 [info] GET /api/health
+2026-04-16 15:22:20 [info] POST /api/auth/login
+2026-04-16 15:22:24 [info] GET /api/auth/profile
+2026-04-16 15:22:25 [info] GET /api/auth/clinic
+2026-04-16 15:22:26 [info] GET /api/orders?page=1&pageSize=10
+2026-04-16 16:12:31 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 16:12:31 [info] 📝 环境: development
+2026-04-16 16:12:31 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 16:21:29 [info] POST /api/auth/login
+2026-04-16 16:21:35 [info] GET /api/auth/profile
+2026-04-16 16:21:37 [info] GET /api/auth/clinic
+2026-04-16 16:21:38 [info] GET /api/orders?page=1&pageSize=5
+2026-04-16 16:22:53 [info] POST /api/auth/login
+2026-04-16 16:22:56 [info] GET /api/auth/profile
+2026-04-16 16:22:57 [info] GET /api/auth/clinic
+2026-04-16 16:22:58 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:23:11 [info] GET /api/orders/1574
+2026-04-16 16:23:27 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:23:38 [info] GET /api/orders?page=2&pageSize=15
+2026-04-16 16:23:51 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:27:09 [info] GET /api/orders/563
+2026-04-16 16:31:46 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:39:51 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:39:56 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:40:34 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:43:11 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:43:17 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:49:09 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 16:49:19 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:00:25 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:08:32 [info] POST /api/auth/login
+2026-04-16 17:08:36 [info] GET /api/auth/profile
+2026-04-16 17:08:37 [info] GET /api/auth/clinic
+2026-04-16 17:08:38 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:21:39 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:27:21 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:32:44 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:38:26 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:38:31 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 17:38:43 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 17:39:17 [info] GET /api/orders/1574
+2026-04-16 17:39:25 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530.pdf
+2026-04-16 17:39:38 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 17:45:01 [info] GET /api/orders/1574
+2026-04-16 17:47:30 [info] GET /api/orders/1574
+2026-04-16 17:47:32 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:47:37 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:47:50 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 17:47:59 [info] GET /api/orders/1574
+2026-04-16 17:51:31 [info] GET /api/orders/1574
+2026-04-16 17:57:00 [info] GET /api/orders/1574
+2026-04-16 18:03:04 [info] GET /api/orders/1574
+2026-04-16 18:03:07 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530.pdf
+2026-04-16 18:13:12 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 18:13:12 [info] 📝 环境: development
+2026-04-16 18:13:12 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 18:20:28 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:20:33 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:20:42 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:20:51 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:25:21 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:25:25 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:25:34 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:26:30 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:32:32 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:32:36 [info] GET /api/api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:33:42 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 18:33:42 [info] 📝 环境: development
+2026-04-16 18:33:42 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 18:38:00 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:38:13 [info] GET /api/api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:38:19 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:38:23 [info] GET /api/api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:38:47 [info] GET /api/api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:38:52 [info] GET /api/api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:40:58 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:41:01 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:41:58 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:42:03 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:42:08 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:42:14 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:42:21 [info] GET /api/orders/1574
+2026-04-16 18:42:25 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:49:45 [info] POST /api/auth/login
+2026-04-16 18:49:48 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:52:45 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 18:58:03 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 18:58:03 [info] 📝 环境: development
+2026-04-16 18:58:03 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 18:58:23 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:58:40 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:58:44 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:58:50 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:58:56 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:10 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:18 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:25 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:28 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:29 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:38 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:41 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 18:59:49 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 19:00:18 [info] POST /api/auth/login
+2026-04-16 19:00:23 [info] GET /api/auth/profile
+2026-04-16 19:00:24 [info] GET /api/auth/clinic
+2026-04-16 19:00:25 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 19:00:30 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 19:00:38 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 19:00:43 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 19:00:56 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767162101976357_signed.pdf
+2026-04-16 19:02:38 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 19:04:09 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:12:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 20:12:29 [info] 📝 环境: development
+2026-04-16 20:12:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 20:13:49 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 20:13:53 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:14:08 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:45:07 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 20:45:11 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:45:27 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 20:45:31 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:45:40 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 20:45:44 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:47:06 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:49:49 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 20:49:49 [info] 📝 环境: development
+2026-04-16 20:49:49 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-16 20:53:53 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 20:54:10 [info] POST /api/auth/login
+2026-04-16 20:54:17 [info] GET /api/auth/profile
+2026-04-16 20:54:19 [info] GET /api/auth/clinic
+2026-04-16 20:54:21 [info] GET /api/orders?page=1&pageSize=15
+2026-04-16 20:54:24 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-16 20:54:56 [info] GET /api/v1/reports/proxy?url=https:%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767162101976357_signed.pdf
+2026-04-16 21:09:54 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-16 21:09:54 [info] 📝 环境: development
+2026-04-16 21:09:54 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 09:24:29 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 09:24:29 [info] 📝 环境: development
+2026-04-17 09:24:29 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 09:42:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 09:42:11 [info] 📝 环境: development
+2026-04-17 09:42:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 09:59:32 [info] POST /api/auth/login
+2026-04-17 09:59:39 [info] GET /api/auth/profile
+2026-04-17 09:59:40 [info] GET /api/auth/clinic
+2026-04-17 09:59:41 [info] GET /api/orders?page=1&pageSize=15
+2026-04-17 09:59:46 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf&page=a4
+2026-04-17 09:59:46 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-17 10:00:31 [info] GET /api/orders/2019
+2026-04-17 10:00:41 [info] GET /api/orders/2019
+2026-04-17 10:00:47 [info] GET /api/orders?page=1&pageSize=15
+2026-04-17 10:07:55 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:07:55 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:07:55 [info] 📝 环境: development
+2026-04-17 10:07:55 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:07:55 [info] 📝 环境: development
+2026-04-17 10:07:55 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:08:04 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:08:04 [info] 📝 环境: development
+2026-04-17 10:08:04 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:09:34 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf&page=a4
+2026-04-17 10:10:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:10:11 [info] 📝 环境: development
+2026-04-17 10:10:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:10:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:10:11 [info] 📝 环境: development
+2026-04-17 10:10:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:10:19 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf&page=a4
+2026-04-17 10:10:29 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf
+2026-04-17 10:10:52 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf&page=a4
+2026-04-17 10:10:53 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf
+2026-04-17 10:10:54 [info] GET /favicon.ico
+2026-04-17 10:13:54 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf&page=a4
+2026-04-17 10:14:19 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf&page=a4
+2026-04-17 10:14:21 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fwww.w3.org%2FWAI%2FER%2Ftests%2Fxhtml%2Ftestfiles%2Fresources%2Fpdf%2Fdummy.pdf
+2026-04-17 10:14:26 [info] GET /api/orders?page=1&pageSize=15
+2026-04-17 10:14:38 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf&page=a4
+2026-04-17 10:14:38 [info] GET /api/v1/reports/proxy?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-17 10:15:36 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf&page=a5
+2026-04-17 10:20:38 [info] GET /api/orders?page=1&pageSize=15
+2026-04-17 10:20:42 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-17 10:20:48 [info] GET /api/v1/reports/print?url=https%3A%2F%2Fehealth-zijian.oss-cn-shenzhen.aliyuncs.com%2Forder-report%2FLO1767164567681530_signed.pdf
+2026-04-17 10:31:15 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:31:15 [info] 📝 环境: development
+2026-04-17 10:31:15 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:31:15 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:31:15 [info] 📝 环境: development
+2026-04-17 10:31:15 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:34:35 [info] GET /api/health
+2026-04-17 10:34:53 [info] GET /api/health
+2026-04-17 10:38:11 [info] 🚀 服务器已启动: http://localhost:3000
+2026-04-17 10:38:11 [info] 📝 环境: development
+2026-04-17 10:38:11 [info] 🔑 默认管理员账号: admin / admin123
+2026-04-17 10:45:15 [info] GET /api/auth/profile
